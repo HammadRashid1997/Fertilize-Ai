@@ -1,4 +1,4 @@
 # Fertilize-Ai
 
-This repository is about writing automation scripts for the website fertilize.ai using cypress.
+This repository is about writing automation scripts for the website www.fertilize.ai/ using cypress.
 
