@@ -22,7 +22,7 @@ Fertilize AI is an agritech chatbot built to offer farmers data-driven fertili
 
 ## Setup
 
-The first step is to initialize a repository/direcotry for cypress related projects. This step is optional but recommended.
+The first step is to initialize a folder for cypress related projects. This step is optional but recommended.
 ```
 mkdir cypress-e2e-tests
 cd cypress-e2e-tests
